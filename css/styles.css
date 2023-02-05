@@ -1,16 +1,24 @@
 body {
     text-align: center;
-    background-image: url("images/rustic-wood-background-free-backgrounds-on-pinterest-wood-texture-34.jpeg");
+    background-color:rgb(240, 155, 240);
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    text-shadow: 2px 2px #f7f3f3;
-    color:rgb(1, 0, 1)
 }
 
 ul {
     padding-left: 0;
     list-style-position: inside;
+    color:azure;
   }
 
 h1 {
-    color: rgb(47, 3, 92);    
+    color: rgb(47, 3, 92); 
+}
+
+h2 {
+    color:darkmagenta;
+}
+
+h3 {
+    color:cadetblue
+
 }
